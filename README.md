@@ -82,7 +82,7 @@ Multi-fact star-schema model unifying sales, order fulfilment, inventory and mar
 
 - **B.Tech in Computer Science**, HR Institute of Technology, Ghaziabad (2023 – 2027)
 - Data Analytics with AI, Anudip Foundation
-- Digi Saksham Program (AI Fundamentals), Ministry of Labour & Employment and Microsoft
+- SQL 30 days micro course , skillup
 - Certificate in Computer Operation, LBS Advance Training Institute
 
 ---
